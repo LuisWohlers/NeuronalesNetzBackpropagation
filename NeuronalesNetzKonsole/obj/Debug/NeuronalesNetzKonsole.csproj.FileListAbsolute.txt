@@ -1,0 +1,33 @@
+C:\Users\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\obj\Debug\NeuronalesNetzKonsole.csprojAssemblyReference.cache
+C:\Users\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\obj\Debug\NeuronalesNetzKonsole.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\bin\Debug\NeuronalesNetzKonsole.exe.config
+C:\Users\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\bin\Debug\NeuronalesNetzKonsole.exe
+C:\Users\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\bin\Debug\NeuronalesNetzKonsole.pdb
+C:\Users\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\bin\Debug\NeuronalesNetz.dll
+C:\Users\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\bin\Debug\NeuronaleNetzeInterfaces.dll
+C:\Users\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\bin\Debug\NeuronalesNetz.pdb
+C:\Users\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\obj\Debug\NeuronalesNetzKonsole.csproj.CopyComplete
+C:\Users\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\obj\Debug\NeuronalesNetzKonsole.exe
+C:\Users\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\obj\Debug\NeuronalesNetzKonsole.pdb
+D:\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\bin\Debug\NeuronalesNetzKonsole.exe.config
+D:\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\bin\Debug\NeuronalesNetzKonsole.exe
+D:\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\bin\Debug\NeuronalesNetzKonsole.pdb
+D:\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\bin\Debug\NeuronalesNetz.dll
+D:\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\bin\Debug\NeuronaleNetzeInterfaces.dll
+D:\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\bin\Debug\NeuronalesNetz.pdb
+D:\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\obj\Debug\NeuronalesNetzKonsole.csprojAssemblyReference.cache
+D:\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\obj\Debug\NeuronalesNetzKonsole.csproj.CoreCompileInputs.cache
+D:\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\obj\Debug\NeuronalesNetzKonsole.csproj.CopyComplete
+D:\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\obj\Debug\NeuronalesNetzKonsole.exe
+D:\Luis\Documents\EIT_HS-Düsseldorf\Semester 4\C#\ProjektOrdner\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\obj\Debug\NeuronalesNetzKonsole.pdb
+D:\Code\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\bin\Debug\NeuronalesNetzKonsole.exe.config
+D:\Code\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\bin\Debug\NeuronalesNetzKonsole.exe
+D:\Code\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\bin\Debug\NeuronalesNetzKonsole.pdb
+D:\Code\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\bin\Debug\NeuronalesNetz.dll
+D:\Code\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\bin\Debug\NeuronaleNetzeInterfaces.dll
+D:\Code\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\bin\Debug\NeuronalesNetz.pdb
+D:\Code\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\obj\Debug\NeuronalesNetzKonsole.csprojAssemblyReference.cache
+D:\Code\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\obj\Debug\NeuronalesNetzKonsole.csproj.CoreCompileInputs.cache
+D:\Code\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\obj\Debug\NeuronalesNetzKonsole.csproj.CopyComplete
+D:\Code\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\obj\Debug\NeuronalesNetzKonsole.exe
+D:\Code\NeuronalesNetzBackpropagation\NeuronalesNetzKonsole\obj\Debug\NeuronalesNetzKonsole.pdb

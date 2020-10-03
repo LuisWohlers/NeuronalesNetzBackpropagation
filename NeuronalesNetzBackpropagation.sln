@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuronalesNetz", "NeuronalesNetzBackpropagation\NeuronalesNetz.csproj", "{FECB5508-4D2C-47F5-89E3-C9DCEC186113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuronalesNetzKonsole", "NeuronalesNetzKonsole\NeuronalesNetzKonsole.csproj", "{FA1BBC1A-8465-4887-9D65-0FB9BFEDA1F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FECB5508-4D2C-47F5-89E3-C9DCEC186113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECB5508-4D2C-47F5-89E3-C9DCEC186113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECB5508-4D2C-47F5-89E3-C9DCEC186113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECB5508-4D2C-47F5-89E3-C9DCEC186113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA1BBC1A-8465-4887-9D65-0FB9BFEDA1F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1BBC1A-8465-4887-9D65-0FB9BFEDA1F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1BBC1A-8465-4887-9D65-0FB9BFEDA1F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1BBC1A-8465-4887-9D65-0FB9BFEDA1F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CEFAD7E-0CAC-4AED-9D31-4F85B4406AEB}
+	EndGlobalSection
+EndGlobal
